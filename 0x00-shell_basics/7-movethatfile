@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /temp/betty /tmp/My_first_depository/betty
+mv /tmp/betty /tmp/My_first_depository/betty
